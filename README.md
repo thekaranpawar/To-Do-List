@@ -1,2 +1,2 @@
 # To-Do-List
-A To-Do List is a task management tool that allows users to organize and track their daily tasks. It typically includes features for adding new tasks, marking tasks as completed, and removing them when done.
+This project is a simple To-Do List web application built using HTML, CSS, and JavaScript. It allows users to add tasks, mark them as completed, and remove them. The app features an intuitive interface with interactive functionalities to manage tasks. It’s a great project for beginners to understand DOM manipulation, event handling, and basic web development concepts
